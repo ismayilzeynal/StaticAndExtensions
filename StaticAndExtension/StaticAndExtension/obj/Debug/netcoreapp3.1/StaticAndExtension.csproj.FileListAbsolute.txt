@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\bin\Debug\netcoreapp3.1\StaticAndExtension.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\bin\Debug\netcoreapp3.1\StaticAndExtension.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\bin\Debug\netcoreapp3.1\StaticAndExtension.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\bin\Debug\netcoreapp3.1\StaticAndExtension.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\bin\Debug\netcoreapp3.1\StaticAndExtension.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\bin\Debug\netcoreapp3.1\StaticAndExtension.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\new\StaticAndExtension\StaticAndExtension\obj\Debug\netcoreapp3.1\StaticAndExtension.genruntimeconfig.cache
